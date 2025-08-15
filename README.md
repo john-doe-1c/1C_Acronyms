@@ -5,4 +5,5 @@
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
 |МД|Метаданные
+|ОбъектМД|Объект метаданных
 |СиО|Сравнение и объединение
