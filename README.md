@@ -21,6 +21,7 @@
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ДС|Динамический список|https://v8.1c.ru/platforma/dinamicheskiy-spisok/
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда ВТ используют для созвучного термина "виртуальная таблица", но если вы так сделаете то вас скорее всего не поймут правильно.
+|МВТ|Менеджер временных таблиц
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ТиИ|Тестироване и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |РЛС / RLS|Транслит с "**R**ow **l**evel **s**ecurity"|https://its.1c.ru/db/metod8dev/content/2316/hdoc
