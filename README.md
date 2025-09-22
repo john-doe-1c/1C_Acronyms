@@ -30,3 +30,4 @@
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ПС|Параметр сеанса
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
+|ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
