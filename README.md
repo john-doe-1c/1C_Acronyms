@@ -32,3 +32,6 @@
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ЕДТ|Транслит с EDT (**E**nterprise **D**evelopment **T**ools)|https://edt.1c.ru/
+|ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
+|ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
+|ХТТП|Транслит с HTTP (**H**yper**t**ext **T**ransfer **P**rotocol)|https://ru.wikipedia.org/wiki/HTTP
