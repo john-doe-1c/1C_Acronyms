@@ -24,11 +24,11 @@
 |МВТ|Менеджер временных таблиц
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ТиИ|Тестироване и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
-|РЛС / RLS|Транслит с "**R**ow **l**evel **s**ecurity"|https://its.1c.ru/db/metod8dev/content/2316/hdoc
+|РЛС|Транслит с RLS, "**R**ow **l**evel **s**ecurity"|https://its.1c.ru/db/metod8dev/content/2316/hdoc
 |ГХ|Гитхаб|Сайт github.com
 |ГЛ|Гитлаб|gitlab.com
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ПС|Параметр сеанса
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
-|ЕДТ|Транслит с EDT|https://edt.1c.ru/
+|ЕДТ|Транслит с EDT, **E**nterprise **D**evelopment **T**ools|https://edt.1c.ru/
