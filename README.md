@@ -29,6 +29,7 @@
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ПС|Параметр сеанса
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
+|РИБ|Распределенная информационная база|https://v8.1c.ru/platforma/raspredelennaya-informatsionnaya-baza/
 |РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
 |СЗ|Список значений
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
