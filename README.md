@@ -25,6 +25,7 @@
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ТиИ|Тестироване и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
+|ИС|Инфостарт|Сайт infostart.ru
 |ГХ|Гитхаб|Сайт github.com
 |ГЛ|Гитлаб|gitlab.com
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
