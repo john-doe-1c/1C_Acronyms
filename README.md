@@ -41,6 +41,6 @@
 |ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
 |ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
 |ХТТП|Транслит с HTTP (**H**yper**t**ext **T**ransfer **P**rotocol)|https://ru.wikipedia.org/wiki/HTTP
-|ЦФ|Транслит с **CF**|Файл с расширением ***.cf**, который содержит "основную" конфигурацию, также смотри https://v8.1c.ru/platforma/sohranenie-i-zagruzka-konfiguraciy/
+|ЦФ|Транслит с **CF**|Файл с расширением ***.cf**, который содержит ["основную" конфигурацию](https://v8.1c.ru/platforma/sohranenie-i-zagruzka-konfiguraciy/)
 |ЦФЕ|Транслит с **CFE**|Файл с расширением ***.cfe**, который содержит [расширение конфигурации](https://v8.1c.ru/platforma/rasshireniya/)
 |ЦФУ|Транслит с **CFU**|Файл с расширением ***.cfu**, который содержит [обновление конфигурации](https://its.1c.ru/db/pubtirage/content/53/hdoc)
