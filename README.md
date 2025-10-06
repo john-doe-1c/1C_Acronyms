@@ -18,6 +18,7 @@
 |ДФС|ДанныеФормыСтруктура|Коллективная Мандела иногда подкидывает несуществующий вариант ДФО (ДанныеФормыОбъект)
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
+|ЖСОН|Транслит с JSON (**J**ava**S**cript **O**bject **N**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИС|Инфостарт|Сайт infostart.ru
 |ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
