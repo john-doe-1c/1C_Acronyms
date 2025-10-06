@@ -11,6 +11,7 @@
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ГЛ|Гитлаб|gitlab.com
 |ГХ|Гитхаб|Сайт github.com
+|ДВФ|ДиалогВыбораФайла|https://its.1c.ru/db/metod8dev/content/2522/hdoc
 |ДЗ|Дерево значений
 |ДС|Динамический список|https://v8.1c.ru/platforma/dinamicheskiy-spisok/
 |ДФК|ДанныеФормыКоллекция
