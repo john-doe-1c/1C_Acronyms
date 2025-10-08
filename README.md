@@ -31,6 +31,7 @@
 |НЗ|Набор записей (регистра)
 |ОМ|Общий модуль
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
+|ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ПС|Параметр сеанса
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
@@ -38,6 +39,8 @@
 |РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
 |СЗ|Список значений
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
+|СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
+|СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
