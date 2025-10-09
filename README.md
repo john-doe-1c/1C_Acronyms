@@ -5,6 +5,7 @@
 |ЖВПР|Ждем ваших пул-реквестов|Добавляйте свои сокращения (аббревиатуры)
 ||
 |БД|База данных
+|БП|Бухгалтерия предприятия|https://v8.1c.ru/buhv8/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда ВТ используют для созвучного термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
@@ -13,11 +14,13 @@
 |ГХ|Гитхаб|Сайт github.com
 |ДВФ|ДиалогВыбораФайла|https://its.1c.ru/db/metod8dev/content/2522/hdoc
 |ДЗ|Дерево значений
+|ДО|Документооборот|Обычно подразумевается типовая конфигурация https://v8.1c.ru/doc8/
 |ДС|Динамический список|https://v8.1c.ru/platforma/dinamicheskiy-spisok/
 |ДФК|ДанныеФормыКоллекция
 |ДФС|ДанныеФормыСтруктура|Коллективная Мандела иногда подкидывает несуществующий вариант ДФО (ДанныеФормыОбъект)
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
+|ЕРП|Транслит с ERP (**E**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
 |ЖСОН|Транслит с JSON (**J**ava**S**cript **O**bject **N**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИС|Инфостарт|Сайт infostart.ru
@@ -47,6 +50,8 @@
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
+|УПП|Управление производственный предприятием|https://solutions.1c.ru/catalog/enterprise
+|УТ|Управление торговлей|https://v8.1c.ru/trade/
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
 |ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
