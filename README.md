@@ -6,6 +6,7 @@
 ||
 |БД|База данных
 |БП|Бухгалтерия предприятия|https://v8.1c.ru/buhv8/
+|БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда ВТ используют для созвучного термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
