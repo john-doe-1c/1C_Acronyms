@@ -50,7 +50,8 @@
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
-|УПП|Управление производственный предприятием|https://solutions.1c.ru/catalog/enterprise
+|УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
+|УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
