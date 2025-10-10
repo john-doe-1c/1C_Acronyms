@@ -25,6 +25,7 @@
 |ЖСОН|Транслит с JSON (**J**ava**S**cript **O**bject **N**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИС|Инфостарт|Сайт infostart.ru
+|КИ|"Командный интерфейс" или "Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/ или https://its.1c.ru/db/bsp246doc#content:1822:hdoc
 |ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
 |МВТ|Менеджер временных таблиц
 |МД|Метаданные|ОбъектМД - объект метаданных
@@ -36,6 +37,7 @@
 |МФ|Модуль формы
 |НЗ|Набор записей (регистра)
 |ОМ|Общий модуль
+|ОП|Обычное приложение|https://its.1c.ru/db/v83doc/bookmark/usr/TI000000219
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
 |ОФ|Обычная форма|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
@@ -53,6 +55,7 @@
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
+|УП|Управляемое приложение|https://its.1c.ru/db/v8devgloss#content:2:hdoc:04
 |УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
 |УФ|Управляемая форма (управляемые формы)|https://its.1c.ru/db/pubessence/content/81/hdoc
