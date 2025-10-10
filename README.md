@@ -62,6 +62,7 @@
 |УФ|Управляемая форма (управляемые формы)|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
+|ХЗ|Хранилище значения|https://its.1c.ru/db/metod8dev/content/2418/hdoc
 |ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
 |ХТТП|Транслит с HTTP (**H**yper**t**ext **T**ransfer **P**rotocol)|https://ru.wikipedia.org/wiki/HTTP
 |ЦФ|Транслит с **CF**|Файл с расширением ***.cf**, который содержит ["основную" конфигурацию](https://v8.1c.ru/platforma/sohranenie-i-zagruzka-konfiguraciy/)
