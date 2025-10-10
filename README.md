@@ -37,6 +37,7 @@
 |НЗ|Набор записей (регистра)
 |ОМ|Общий модуль
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
+|ОФ|Обычная форма|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ПС|Параметр сеанса
@@ -54,6 +55,7 @@
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
 |УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
+|УФ|Управляемая форма (управляемые формы)|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
 |ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
