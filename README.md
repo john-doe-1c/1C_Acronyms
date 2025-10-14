@@ -50,6 +50,7 @@
 |РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
 |СЗ|Список значений
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
+|СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
