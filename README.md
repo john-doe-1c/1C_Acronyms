@@ -27,6 +27,7 @@
 |ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|Инфостарт|Сайт infostart.ru
+|ИЭ|Инфостарт эвент (Infostart Event)|Ежегодное событие event.infostart.ru
 |КИ|"Командный интерфейс" или "Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/ или https://its.1c.ru/db/bsp246doc#content:1822:hdoc
 |ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
 |МВТ|Менеджер временных таблиц
@@ -59,6 +60,7 @@
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
+|УО|"Условное оформление" или "Уровень отказоустойчивости"|https://its.1c.ru/db/pubessence/content/60/hdoc или https://its.1c.ru/db/v83doc#bookmark:cs:TI000000035
 |УП|Управляемое приложение|https://its.1c.ru/db/v8devgloss#content:2:hdoc:04
 |УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
