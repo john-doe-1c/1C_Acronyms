@@ -71,6 +71,7 @@
 |ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
 |ХТТП|Транслит с HTTP (**H**yper**t**ext **T**ransfer **P**rotocol)|https://ru.wikipedia.org/wiki/HTTP
 |ХХП|**Х**уяк-**х**уяк - и в **п**родакшн|https://neolurk.org/wiki/Рас_рас_и_готово
+|ЦС|Центральный сервер|https://v8.1c.ru/platforma/arkhitektura-klastera/
 |ЦФ|Транслит с **CF**|Файл с расширением ***.cf**, который содержит ["основную" конфигурацию](https://v8.1c.ru/platforma/sohranenie-i-zagruzka-konfiguraciy/)
 |ЦФЕ|Транслит с **CFE**|Файл с расширением ***.cfe**, который содержит [расширение конфигурации](https://v8.1c.ru/platforma/rasshireniya/)
 |ЦФУ|Транслит с **CFU**|Файл с расширением ***.cfu**, который содержит [обновление конфигурации](https://its.1c.ru/db/pubtirage/content/53/hdoc)
