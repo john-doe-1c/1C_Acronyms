@@ -9,7 +9,7 @@
 |БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
-|ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда ВТ используют для созвучного термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
+|ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ГЛ|Гитлаб|gitlab.com
