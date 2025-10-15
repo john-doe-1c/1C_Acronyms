@@ -27,7 +27,7 @@
 |ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|Инфостарт|Сайт infostart.ru
-|ИЭ|Инфостарт эвент (Infostart Event)|Ежегодное событие event.infostart.ru
+|ИЭ|Инфостарт Эвент (Infostart Event)|Ежегодное событие event.infostart.ru
 |КИ|"Командный интерфейс" или "Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/ или https://its.1c.ru/db/bsp246doc#content:1822:hdoc
 |ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
 |МВТ|Менеджер временных таблиц
