@@ -9,7 +9,7 @@
 |БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
-|ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/ Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
+|ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/<br>Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ГЛ|Гитлаб|gitlab.com
@@ -28,7 +28,7 @@
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|**И**нфо**с**тарт|Сайт infostart.ru
 |ИЭ|Инфостарт Эвент (Infostart Event)|Ежегодное событие event.infostart.ru
-|КИ|"Командный интерфейс" или "Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/ или https://its.1c.ru/db/bsp246doc#content:1822:hdoc
+|КИ|"Командный интерфейс"<br>или<br>"Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/<br>или<br>https://its.1c.ru/db/bsp246doc#content:1822:hdoc
 |ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
 |МВТ|Менеджер временных таблиц
 |МД|Метаданные|ОбъектМД - объект метаданных
@@ -60,7 +60,7 @@
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТЧ|Табличная часть
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
-|УО|"Условное оформление" или "Уровень отказоустойчивости"|https://its.1c.ru/db/pubessence/content/60/hdoc или https://its.1c.ru/db/v83doc#bookmark:cs:TI000000035
+|УО|"Условное оформление"<br>или<br>"Уровень отказоустойчивости"|https://its.1c.ru/db/pubessence/content/60/hdoc<br>или<br>https://its.1c.ru/db/v83doc#bookmark:cs:TI000000035
 |УП|Управляемое приложение|https://its.1c.ru/db/v8devgloss#content:2:hdoc:04
 |УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
