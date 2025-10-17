@@ -41,6 +41,7 @@
 |МФ|Модуль формы
 |НЗ|Набор записей (регистра)
 |ОМ|Общий модуль
+|ОО|ОписаниеОповещения
 |ОП|Обычное приложение|https://its.1c.ru/db/v83doc/bookmark/usr/TI000000219
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
 |ОФ|Обычная форма|https://its.1c.ru/db/pubessence/content/81/hdoc
