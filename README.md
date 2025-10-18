@@ -54,12 +54,14 @@
 |СВ|Система взаимодействия|https://v8.1c.ru/platforma/sistema-vzaimodeystviy/
 |СЗ|Список значений
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
+|СЛ|Сервис / сервер лицензирования|https://v8.1c.ru/platforma/servis-litsenzirovaniya-i-servis-vneshnego-upravleniya-seansami/
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
+|ТНФ|Требования назначения функциональности|https://v8.1c.ru/platforma/trebovaniya-naznacheniya-funktsionalnosti/
 |ТЧ|Табличная часть
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
 |УО|"Условное оформление"<br>или<br>"Уровень отказоустойчивости"|https://its.1c.ru/db/pubessence/content/60/hdoc<br>или<br>https://its.1c.ru/db/v83doc#bookmark:cs:TI000000035
