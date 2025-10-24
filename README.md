@@ -64,6 +64,7 @@
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТНФ|Требования назначения функциональности|https://v8.1c.ru/platforma/trebovaniya-naznacheniya-funktsionalnosti/
 |ТЧ|Табличная часть
+|УИР|Универсальные инструменты разработчика|https://github.com/cpr1c/tools_ui_1c
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
 |УО|"Условное оформление"<br>или<br>"Уровень отказоустойчивости"|https://its.1c.ru/db/pubessence/content/60/hdoc<br>или<br>https://its.1c.ru/db/v83doc#bookmark:cs:TI000000035
 |УП|Управляемое приложение|https://its.1c.ru/db/v8devgloss#content:2:hdoc:04
