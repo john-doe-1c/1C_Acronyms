@@ -25,8 +25,9 @@
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
 |ЕРП|Транслит с ERP (**E**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
+|ЖР|Журнал регистрации|https://v8.1c.ru/platforma/zhurnal-registracii/
 |ЖСОН|Транслит с JSON (**J**ava**S**cript **O**bject **N**otation)|https://ru.wikipedia.org/wiki/JSON
-|ИБ|Инфобаза, информационная база|https://its.1c.ru/db/edtdoc/content/10612/hdoc
+|ИБ|Информационная база (инфобаза)|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|**И**нфо**с**тарт|Сайт infostart.ru
 |ИЭ|Инфостарт Эвент (Infostart Event)|Ежегодное событие event.infostart.ru
@@ -60,6 +61,7 @@
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
+|ТЖ|Технологический журнал (техножурнал)|https://v8.1c.ru/platforma/tehnologicheskiy-zhurnal/
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТНФ|Требования назначения функциональности|https://v8.1c.ru/platforma/trebovaniya-naznacheniya-funktsionalnosti/
