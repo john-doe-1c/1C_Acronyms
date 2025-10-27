@@ -17,6 +17,7 @@
 |ГЛ|Гитлаб|gitlab.com
 |Гуй|Транслит с GUI (**g**raphical **u**ser **i**nterface)|[https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
 |ГХ|Гитхаб|Сайт github.com
+|ДБФ|Транслит с DBF (**D**ata **b**ase **f**ile)|https://v8.1c.ru/platforma/dbf-fayly/
 |ДВФ|ДиалогВыбораФайла|https://its.1c.ru/db/metod8dev/content/2522/hdoc
 |ДЗ|Дерево значений
 |ДО|Документооборот|Обычно подразумевается типовая конфигурация https://v8.1c.ru/doc8/
@@ -27,7 +28,7 @@
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
 |ЕРП|Транслит с ERP (**E**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
 |ЖР|Журнал регистрации|https://v8.1c.ru/platforma/zhurnal-registracii/
-|ЖСОН|Транслит с JSON (**J**ava**S**cript **O**bject **N**otation)|https://ru.wikipedia.org/wiki/JSON
+|ЖСОН|Транслит с JSON (**J**ava**s**cript **o**bject **n**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Информационная база (инфобаза)|https://its.1c.ru/db/edtdoc/content/10612/hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|**И**нфо**с**тарт|Сайт infostart.ru
@@ -76,10 +77,10 @@
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
 |УФ|Управляемая форма (управляемые формы)|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
-|ХДТО|Транслит с XDTO (**X**ML **D**ata **T**ransfer **O**bjects)|https://v8.1c.ru/platforma/xdto/
+|ХДТО|Транслит с XDTO (**X**ML **d**ata **t**ransfer **o**bjects)|https://v8.1c.ru/platforma/xdto/
 |ХЗ|Хранилище значения|https://its.1c.ru/db/metod8dev/content/2418/hdoc
-|ХМЛ|Транслит с XML (e**X**tensible **M**arkup **L**anguage)|https://ru.wikipedia.org/wiki/XML
-|ХТТП|Транслит с HTTP (**H**yper**t**ext **T**ransfer **P**rotocol)|https://ru.wikipedia.org/wiki/HTTP
+|ХМЛ|Транслит с XML (e**x**tensible **m**arkup **l**anguage)|https://ru.wikipedia.org/wiki/XML
+|ХТТП|Транслит с HTTP (**H**yper**t**ext **t**ransfer **p**rotocol)|https://ru.wikipedia.org/wiki/HTTP
 |ХХП|**Х**уяк-**х**уяк - и в **п**родакшн|https://neolurk.org/wiki/Рас_рас_и_готово
 |ЦС|Центральный сервер|https://v8.1c.ru/platforma/arkhitektura-klastera/
 |ЦФ|Транслит с **CF**|Файл с расширением ***.cf**, который содержит ["основную" конфигурацию](https://v8.1c.ru/platforma/sohranenie-i-zagruzka-konfiguraciy/)
