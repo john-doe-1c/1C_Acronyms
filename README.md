@@ -68,6 +68,7 @@
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТНФ|Требования назначения функциональности|https://v8.1c.ru/platforma/trebovaniya-naznacheniya-funktsionalnosti/
+|ТСО|**t**otal **c**oast of **o**wnership|https://ru.wikipedia.org/wiki/Совокупная_стоимость_владения
 |ТЧ|Табличная часть
 |УИР|Универсальные инструменты разработчика|https://github.com/cpr1c/tools_ui_1c
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
