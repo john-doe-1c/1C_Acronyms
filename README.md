@@ -15,7 +15,7 @@
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ГЛ|Гитлаб|gitlab.com
-|Гуй|Транслит с GUI (**g**raphical **u**ser **i**nterface)|[https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
+|Гуй|Транслит с GUI (**g**raphical **u**ser **i**nterface)|https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя
 |ГХ|Гитхаб|Сайт github.com
 |ДБФ|Транслит с DBF (**D**ata **b**ase **f**ile)|https://v8.1c.ru/platforma/dbf-fayly/
 |ДВФ|ДиалогВыбораФайла|https://its.1c.ru/db/metod8dev/content/2522/hdoc
@@ -35,7 +35,7 @@
 |ИТС|Информационно-технологическое сопровождение|https://its.1c.ru/db/aboutitsnew
 |ИЭ|Инфостарт Эвент (Infostart Event)|Ежегодное событие event.infostart.ru
 |КИ|"Командный интерфейс"<br>или<br>"Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/<br>или<br>https://its.1c.ru/db/bsp246doc#content:1822:hdoc
-|ЛПР|Лицо, принимающее решение|[https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%BE,_%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5)
+|ЛПР|Лицо, принимающее решение|https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение
 |МВТ|Менеджер временных таблиц
 |МД|Метаданные|ОбъектМД - объект метаданных
 |МК|Мобильный клиент|https://v8.1c.ru/platforma/mobilnyi-klient/
