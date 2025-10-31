@@ -5,6 +5,7 @@
 |ЖВПР|Ждем ваших пул-реквестов|Добавляйте свои сокращения (аббревиатуры)
 ||
 |1С|"Одна секунда"<br>или<br>"Один Сергей (сделал)"
+|АПИ|Транслит с API (**a**pplication **p**rogramming **i**nterface)|https://ru.wikipedia.org/wiki/API
 |БД|База данных
 |БП|"Бизнес-процесс"<br>или<br>"Бухгалтерия предприятия"|https://v8.1c.ru/platforma/biznes-protsess/<br>или<br>https://v8.1c.ru/buhv8/
 |БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
