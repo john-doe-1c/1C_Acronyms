@@ -9,6 +9,7 @@
 |БД|База данных
 |БП|"Бизнес-процесс"<br>или<br>"Бухгалтерия предприятия"|https://v8.1c.ru/platforma/biznes-protsess/<br>или<br>https://v8.1c.ru/buhv8/
 |БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
+|БУ|Бухгалтерский учет
 |БФ|Бит.Финанс|https://www.bitfinance.ru/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
@@ -50,6 +51,7 @@
 |ОО|ОписаниеОповещения
 |ОП|Обычное приложение|https://its.1c.ru/db/v83doc/bookmark/usr/TI000000219
 |ОР|Общий реквизит|https://v8.1c.ru/platforma/obshchiy-rekvizit/
+|ОУ|Оперативный учет
 |ОФ|Обычная форма|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
@@ -77,6 +79,7 @@
 |УП|Управляемое приложение|https://its.1c.ru/db/v8devgloss#content:2:hdoc:04
 |УПП|Управление производственным предприятием|https://solutions.1c.ru/catalog/enterprise
 |УТ|Управление торговлей|https://v8.1c.ru/trade/
+|УУ|Управленческий учет
 |УФ|Управляемая форма (управляемые формы)|https://its.1c.ru/db/pubessence/content/81/hdoc
 |ФЗ|Фоновое задание|https://v8.1c.ru/platforma/fonovoe-zadanie/
 |ХДТО|Транслит с XDTO (**X**ML **d**ata **t**ransfer **o**bjects)|https://v8.1c.ru/platforma/xdto/
