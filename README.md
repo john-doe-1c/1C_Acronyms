@@ -15,6 +15,7 @@
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/<br>Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
+|ВЦ|**В**а**ц**ап|Мессенджер WhatsApp
 |ГК|ГитКонвертер|https://its.1c.ru/db/metod8dev/content/5937/hdoc
 |ГЛ|Гитлаб|gitlab.com
 |Гуй|Транслит с GUI (**g**raphical **u**ser **i**nterface)|https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя
@@ -66,6 +67,7 @@
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
+|ТГ|**Т**еле**г**рам|Мессенджер Telegram
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
 |ТЖ|Технологический журнал (техножурнал)|https://v8.1c.ru/platforma/tehnologicheskiy-zhurnal/
 |ТЗ|Таблица значений
