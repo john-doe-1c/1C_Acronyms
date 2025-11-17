@@ -33,7 +33,7 @@
 |ЖР|Журнал регистрации|https://v8.1c.ru/platforma/zhurnal-registracii/
 |ЖСОН|Транслит с JSON (**J**ava**s**cript **o**bject **n**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Информационная база (инфобаза)|https://its.1c.ru/db/edtdoc/content/10612/hdoc
-|ИОМ|**И**дентификаторы **о**бъектов **м**етаданных|БСПшный справочник
+|ИОМ|**И**дентификаторы **о**бъектов **м**етаданных|БСПшный справочник: https://its.1c.ru/db/bsp23doc#content:692:hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|**И**нфо**с**тарт|Сайт infostart.ru
 |ИТС|Информационно-технологическое сопровождение|https://its.1c.ru/db/aboutitsnew
