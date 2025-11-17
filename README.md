@@ -95,3 +95,4 @@
 |ЦФЕ|Транслит с **CFE**|Файл с расширением ***.cfe**, который содержит [расширение конфигурации](https://v8.1c.ru/platforma/rasshireniya/)
 |ЦФУ|Транслит с **CFU**|Файл с расширением ***.cfu**, который содержит [обновление конфигурации](https://its.1c.ru/db/pubtirage/content/53/hdoc)
 |ЭТВ|**Э**ксперт по **т**ехнологическим **в**опросам|https://v8.1c.ru/tekhnologii/tekhnologii-krupnykh-vnedreniy/tsentry-korporativnoy-tekhnologicheskoy-podderzhki-tsktp/obuchenie-i-sertifikatsiya/ekzamen-1s-ekspert-po-tekhnologicheskim-voprosam/
+|ЯННП|**Я** **н**ичего **н**е **п**онял|https://neolurk.org/wiki/Я_нихуя_не_понял
