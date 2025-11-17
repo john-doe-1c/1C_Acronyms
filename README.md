@@ -68,6 +68,7 @@
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
+|ССЗБ|**С**ам **с**ебе **з**лобный **Б**уратино|https://neolurk.org/wiki/ССЗБ
 |ТГ|**Т**еле**г**рам|Мессенджер Telegram
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
 |ТЖ|Технологический журнал (техножурнал)|https://v8.1c.ru/platforma/tehnologicheskiy-zhurnal/
