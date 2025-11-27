@@ -59,9 +59,13 @@
 |ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ПС|Параметр сеанса
+|РБ|Регистр бухгалтерии|https://v8.1c.ru/platforma/registr-buhgalterii/
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
 |РИБ|Распределенная информационная база|https://v8.1c.ru/platforma/raspredelennaya-informatsionnaya-baza/
 |РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
+|РН|Регистр накопления|https://v8.1c.ru/platforma/registr-nakopleniya/
+|РР|Регистр расчета|https://v8.1c.ru/platforma/registr-rascheta/
+|РС|Регистр сведений|https://v8.1c.ru/platforma/registr-svedeniy/
 |СВ|Система взаимодействия|https://v8.1c.ru/platforma/sistema-vzaimodeystviy/
 |СЗ|Список значений
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
