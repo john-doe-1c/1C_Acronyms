@@ -12,6 +12,7 @@
 |БУ|Бухгалтерский учет
 |БФ|Бит.Финанс|https://www.bitfinance.ru/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
+|ВК|Внешняя компонента|https://v8.1c.ru/platforma/tehnologiya-vneshnih-komponentov/
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/<br>Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
@@ -68,6 +69,7 @@
 |РС|Регистр сведений|https://v8.1c.ru/platforma/registr-svedeniy/
 |СВ|Система взаимодействия|https://v8.1c.ru/platforma/sistema-vzaimodeystviy/
 |СЗ|Список значений
+|СИ|Сервисы интеграции|https://its.1c.ru/db/v83doc#bookmark:dev:TI000002299
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
 |СЛ|Сервис / сервер лицензирования|https://v8.1c.ru/platforma/servis-litsenzirovaniya-i-servis-vneshnego-upravleniya-seansami/
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
