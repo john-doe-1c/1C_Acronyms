@@ -42,6 +42,7 @@
 |ИЭ|Инфостарт Эвент (Infostart Event)|Ежегодное событие event.infostart.ru
 |КД|Конвертация данных|КД-2 - [версия 2](https://its.1c.ru/db/metod8dev/content/2943/hdoc), КД-3 - [версия 3](https://its.1c.ru/db/metod8dev/content/5846/hdoc)
 |КИ|"Командный интерфейс"<br>или<br>"Контактная информация"|https://v8.1c.ru/platforma/komandnyy-interfeys/<br>или<br>https://its.1c.ru/db/bsp246doc#content:1822:hdoc
+|КП|Командная панель|https://v8.1c.ru/obuchenie-programmistov/primery-razrabotki/forma/kak_upravlyat_raspolozheniem_komand_v_komandnoy_paneli_formy.htm
 |ЛПР|Лицо, принимающее решение|https://ru.wikipedia.org/wiki/Лицо,_принимающее_решение
 |МВТ|Менеджер временных таблиц
 |МД|Метаданные|ОбъектМД - объект метаданных
