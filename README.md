@@ -74,6 +74,7 @@
 |СИ|Сервисы интеграции|https://its.1c.ru/db/v83doc#bookmark:dev:TI000002299
 |СиО|Сравнение и объединение|https://v8.1c.ru/platforma/sravnenie-i-obedinenie-konfiguraciy/
 |СЛ|Сервис / сервер лицензирования|https://v8.1c.ru/platforma/servis-litsenzirovaniya-i-servis-vneshnego-upravleniya-seansami/
+|СЛК|Система лицензирования конфигураций|https://solutions.1c.ru/catalog/slk
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
