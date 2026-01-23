@@ -101,6 +101,7 @@
 |ХЗ|Хранилище значения|https://its.1c.ru/db/metod8dev/content/2418/hdoc
 |ХМЛ|Транслит с XML (e**x**tensible **m**arkup **l**anguage)|https://ru.wikipedia.org/wiki/XML
 |ХТТП|Транслит с HTTP (**H**yper**t**ext **t**ransfer **p**rotocol)|https://ru.wikipedia.org/wiki/HTTP
+|ХХ|Транслит с HH (**H**ead**h**unter)|Сайт по поиску работы hh.ru
 |ХХП|**Х**уяк-**х**уяк - и в **п**родакшн|https://neolurk.org/wiki/Рас_рас_и_готово
 |ЦЛ|Центр лицензирования|https://its.1c.ru/db/v83doc#bookmark:adm:TI000000548
 |ЦС|Центральный сервер|https://v8.1c.ru/platforma/arkhitektura-klastera/
