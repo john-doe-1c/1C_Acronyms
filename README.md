@@ -22,7 +22,7 @@
 |ГЛ|Гитлаб|gitlab.com
 |Гуй|Транслит с GUI (**g**raphical **u**ser **i**nterface)|https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя
 |ГХ|Гитхаб|Сайт github.com
-|ДБФ|Транслит с DBF (**D**ata **b**ase **f**ile)|https://v8.1c.ru/platforma/dbf-fayly/
+|ДБФ|Транслит с DBF (**d**ata **b**ase **f**ile)|https://v8.1c.ru/platforma/dbf-fayly/
 |ДВФ|ДиалогВыбораФайла|https://its.1c.ru/db/metod8dev/content/2522/hdoc
 |ДЗ|Дерево значений
 |ДО|Документооборот|Обычно подразумевается типовая конфигурация https://v8.1c.ru/doc8/
@@ -31,11 +31,11 @@
 |ДФС|ДанныеФормыСтруктура|Коллективная Мандела иногда подкидывает несуществующий вариант ДФО (ДанныеФормыОбъект)
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
-|ЕРП|Транслит с ERP (**E**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
+|ЕРП|Транслит с ERP (**e**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
 |ЖР|Журнал регистрации|https://v8.1c.ru/platforma/zhurnal-registracii/
-|ЖСОН|Транслит с JSON (**J**ava**s**cript **o**bject **n**otation)|https://ru.wikipedia.org/wiki/JSON
+|ЖСОН|Транслит с JSON (**j**ava**s**cript **o**bject **n**otation)|https://ru.wikipedia.org/wiki/JSON
 |ИБ|Информационная база (инфобаза)|https://its.1c.ru/db/edtdoc/content/10612/hdoc
-|ИОМ|**И**дентификаторы **о**бъектов **м**етаданных|БСПшный справочник: https://its.1c.ru/db/bsp23doc#content:692:hdoc
+|ИОМ|**и**дентификаторы **о**бъектов **м**етаданных|БСПшный справочник: https://its.1c.ru/db/bsp23doc#content:692:hdoc
 |ИР|Инструменты разработчика|https://devtool1c.ucoz.ru/
 |ИС|**И**нфо**с**тарт|Сайт infostart.ru
 |ИТС|Информационно-технологическое сопровождение|https://its.1c.ru/db/aboutitsnew
@@ -66,7 +66,7 @@
 |РБ|Регистр бухгалтерии|https://v8.1c.ru/platforma/registr-buhgalterii/
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
 |РИБ|Распределенная информационная база|https://v8.1c.ru/platforma/raspredelennaya-informatsionnaya-baza/
-|РЛС|Транслит с RLS (**R**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
+|РЛС|Транслит с RLS (**r**ow **l**evel **s**ecurity)|https://its.1c.ru/db/metod8dev/content/2316/hdoc
 |РН|Регистр накопления|https://v8.1c.ru/platforma/registr-nakopleniya/
 |РР|Регистр расчета|https://v8.1c.ru/platforma/registr-rascheta/
 |РС|Регистр сведений|https://v8.1c.ru/platforma/registr-svedeniy/
@@ -79,14 +79,14 @@
 |СП|Синтакс-помощник|https://v8.1c.ru/platforma/sintaks-pomoshchnik/
 |СПИ|Служебный программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |СПиФ|Служебные процедуры и функции|https://its.1c.ru/db/v8std/content/455/hdoc
-|ССЗБ|**С**ам **с**ебе **з**лобный **Б**уратино|https://neolurk.org/wiki/ССЗБ
+|ССЗБ|**с**ам **с**ебе **з**лобный **Б**уратино|https://neolurk.org/wiki/ССЗБ
 |ТГ|**Т**еле**г**рам|Мессенджер Telegram
 |ТД|Табличный документ (он же **Т**аб**Д**ок)|https://v8.1c.ru/platforma/tablichnyy-dokument/
 |ТЖ|Технологический журнал (техножурнал)|https://v8.1c.ru/platforma/tehnologicheskiy-zhurnal/
 |ТЗ|Таблица значений
 |ТиИ|Тестирование и исправление|https://v8.1c.ru/platforma/testirovanie-i-ispravlenie-informacionnoy-bazy/
 |ТНФ|Требования назначения функциональности|https://v8.1c.ru/platforma/trebovaniya-naznacheniya-funktsionalnosti/
-|ТСО|**T**otal **c**ost of **o**wnership|https://ru.wikipedia.org/wiki/Совокупная_стоимость_владения
+|ТСО|**t**otal **c**ost of **o**wnership|https://ru.wikipedia.org/wiki/Совокупная_стоимость_владения
 |ТЧ|Табличная часть
 |УИР|Универсальные инструменты разработчика|https://github.com/cpr1c/tools_ui_1c
 |УНФ|Управление небольшой / нашей фирмой|https://v8.1c.ru/small.biz/
@@ -101,8 +101,8 @@
 |ХЗ|Хранилище значения|https://its.1c.ru/db/metod8dev/content/2418/hdoc
 |ХМЛ|Транслит с XML (e**x**tensible **m**arkup **l**anguage)|https://ru.wikipedia.org/wiki/XML
 |ХТМЛ|Транслит с HTML (**h**yper**t**ext **m**arkup **l**anguage)|https://ru.wikipedia.org/wiki/HTML
-|ХТТП|Транслит с HTTP (**H**yper**t**ext **t**ransfer **p**rotocol)|https://ru.wikipedia.org/wiki/HTTP
-|ХХ|Транслит с HH (**H**ead**h**unter)|Сайт по поиску работы hh.ru
+|ХТТП|Транслит с HTTP (**h**yper**t**ext **t**ransfer **p**rotocol)|https://ru.wikipedia.org/wiki/HTTP
+|ХХ|Транслит с HH (**h**ead**h**unter)|Сайт по поиску работы hh.ru
 |ХХП|**Х**уяк-**х**уяк - и в **п**родакшн|https://neolurk.org/wiki/Рас_рас_и_готово
 |ЦЛ|Центр лицензирования|https://its.1c.ru/db/v83doc#bookmark:adm:TI000000548
 |ЦС|Центральный сервер|https://v8.1c.ru/platforma/arkhitektura-klastera/
