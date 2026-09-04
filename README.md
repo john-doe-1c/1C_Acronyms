@@ -31,6 +31,7 @@
 |ДФС|ДанныеФормыСтруктура|Коллективная Мандела иногда подкидывает несуществующий вариант ДФО (ДанныеФормыОбъект)
 |ДФСК|ДанныеФормыСтруктураСКоллекцией
 |ЕДТ|Транслит с EDT (**E**nterprise **d**evelopment **t**ools)|https://edt.1c.ru/
+|ЕИ|Единица измерения
 |ЕРП|Транслит с ERP (**e**nterprise **r**esource **p**lanning)|Обычно подразумевается типовая конфигурация https://v8.1c.ru/erp/
 |ЖР|Журнал регистрации|https://v8.1c.ru/platforma/zhurnal-registracii/
 |ЖСОН|Транслит с JSON (**j**ava**s**cript **o**bject **n**otation)|https://ru.wikipedia.org/wiki/JSON
