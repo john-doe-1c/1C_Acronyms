@@ -14,6 +14,7 @@
 |БФ|Бит.Финанс|https://www.bitfinance.ru/
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВК|Внешняя компонента|https://v8.1c.ru/platforma/tehnologiya-vneshnih-komponentov/
+|ВПФ|Внешняя печатная форма
 |ВСЦ|Транслит с VSC (**V**isual **S**tudio **C**ode)|https://ru.wikipedia.org/wiki/Visual_Studio_Code
 |ВТ|Временная таблица|https://wonderland.v8.1c.ru/blog/dopolnitelnye-vozmozhnosti-po-rabote-s-vremennymi-tablitsami/<br>Иногда аббревиатуру "ВТ" используют для обозначения термина "виртуальная таблица", но если вы так сделаете, то вас скорее всего не поймут правильно.
 |ВХ|Временное хранилище|https://its.1c.ru/db/v83doc/bookmark/dev/ti000000803
