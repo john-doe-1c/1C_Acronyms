@@ -65,6 +65,7 @@
 |ПИ|Программный интерфейс|https://its.1c.ru/db/v8std/content/455/hdoc
 |ППД|Полнотекстовый поиск данных|https://v8.1c.ru/platforma/polnotekstovyy-poisk/
 |ПС|Параметр сеанса
+|ПФ|"Печатная форма"<br>или<br>"**П**олу**ф**абрикат"
 |РБ|Регистр бухгалтерии|https://v8.1c.ru/platforma/registr-buhgalterii/
 |РЗ|Регламентное задание|https://v8.1c.ru/platforma/reglamentnoe-zadanie/
 |РИБ|Распределенная информационная база|https://v8.1c.ru/platforma/raspredelennaya-informatsionnaya-baza/
