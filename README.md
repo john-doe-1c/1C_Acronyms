@@ -12,6 +12,7 @@
 |БСП|Библиотека стандартных подсистем|https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/
 |БУ|Бухгалтерский учет
 |БФ|Бит.Финанс|https://www.bitfinance.ru/
+|БЯМ|Большая языковая модель|Оно же - [LLM](https://ru.wikipedia.org/wiki/LLM)
 |ВИД|Внешний источник данных|https://v8.1c.ru/platforma/vneshniy-istochnik-dannyh/
 |ВК|Внешняя компонента|https://v8.1c.ru/platforma/tehnologiya-vneshnih-komponentov/
 |ВПФ|Внешняя печатная форма
